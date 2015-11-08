@@ -1,10 +1,11 @@
 # freemarker
+======
 freemarker模板代码生成器
-
-11111111111111111111122222222222222222222
-333333333333333333333333
-
-4444444444444444444444444444444444444
-
-
+```java
+public class HelloWorld{
+  public staitc void main(String[] args){
+    System.out.println("Hello World");
+  }
+}
+```
 主干修改0001
